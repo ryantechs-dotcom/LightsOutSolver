@@ -40,13 +40,15 @@ Lights Out is a logic puzzle with a grid of lights that can be turned on or off.
 
 **Starting Board (5x5)**  
 O O O O O
+
 O X X X O
+
 O X O X O
+
 O X X X O
+
 O O O O O
 
-markdown
-Copy code
 
 **Solver Output:**  
 Solution found in 9 moves:
